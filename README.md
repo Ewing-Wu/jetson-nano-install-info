@@ -1,5 +1,5 @@
 # jn-scripts
-
+# from here : https://github.com/jkjung-avt/jetson_nano
 ## Who does what ? 
 
 - `jn_sd_resize.sh` resizes the SD card partitions to use all instead of the original 16GB. 
